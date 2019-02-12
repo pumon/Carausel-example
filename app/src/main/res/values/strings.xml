@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">CarouselEx</string>
+    <string name="url">http://ec2-52-66-191-234.ap-south-1.compute.amazonaws.com/sagy/fetchVilDet.php</string>
+</resources>
